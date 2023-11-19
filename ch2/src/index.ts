@@ -1,10 +1,15 @@
 // console.log('Hello TypeScript!')
-let a = 4;
-let b = a + 3
-let c =
-{
-    apple: a,
-    banana: b
+function ch2() {
+    let a = 4;
+    let b = a + 3
+    let c =
+    {
+        apple: a,
+        banana: b
+    }
+    let d = c.apple * 4    
 }
-let d = c.apple * 4
+ch2();
+
+
 //Math.

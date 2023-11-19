@@ -10,6 +10,7 @@ touch src/index.ts
 
 # Запустите код с помощью NodeJS
 node ./dist/index.js
+node ./dist/types.js
 
 ts-node (https://www.npmjs.com/package/ts-node)
 ypescript-node-starter (https://github.com/Microsoft/TypeScript-Node-Starter)
